@@ -1,6 +1,6 @@
 exports.config = {
   bundles: [
-    { components: ['my-name'] }
+    { components: ['vsot-main'] }
   ],
   collections: [
     { name: '@stencil/router' }
